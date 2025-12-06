@@ -1,4 +1,4 @@
-# 🤖 Personal AI Assistant
+# 🤖 Personal AI Multi Agent Assistant
 
 A modular multi-agent assistant built with **n8n** that processes **text and voice requests**, intelligently routes tasks to specialized agents, and executes actions across email, calendar, research, and support domains. Designed for scalability, contextual understanding, and practical productivity.
 
